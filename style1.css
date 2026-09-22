@@ -1,0 +1,20 @@
+h1{
+	font-family:jokerman;
+	font-weight:lighter;
+	font-style:normal;
+	font-variant:small-caps;
+	font-size:x-soft;
+	color:red;
+	text-align:center;
+}
+p{
+	text-decoration-style:;
+	text-decoration-line:overline;
+	color:black;
+	text-indent:50px;
+	text-shadow:2px 2px 5px;
+    border-color:red green blue orange;
+	border:3px solid red;
+	border-right-width:5px;
+	 
+}
