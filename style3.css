@@ -1,0 +1,17 @@
+table{
+	border-style:dashed solid dotted double;
+	border-color:red green blue orange;
+	border-width:5px;
+	border-top-width:medium;
+	border-bottom-width:thin;
+	border-top:2px soild gray;
+	border:3px soild red;
+	border-collapse:collapse;
+	border-left-width:thick;
+	
+}
+img{
+	border:8px soild yellow;
+	border-radius:50%;/* round shape*/
+	border-radius:20% 0% 30% 0%;
+}
