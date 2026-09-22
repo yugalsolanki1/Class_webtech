@@ -1,0 +1,8 @@
+body{
+	background-color:lightblue;
+	background-image:url("Capture.png");
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	background-position:center center;
+	background-size:500px 500px;
+}
